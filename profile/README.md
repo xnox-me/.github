@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![xnox-me Logo](https://via.placeholder.com/200x200/2563eb/ffffff?text=XNOX-ME)
+![xnox-me Logo]([https://via.placeholder.com/200x200/2563eb/ffffff?text=XNOX-ME](https://imgur.com/a/gkfyyWy))
 
 **Innovative Development Tools • Business Intelligence Platforms • Open Source Solutions**
 
